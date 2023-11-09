@@ -14,4 +14,6 @@ salvando modificacoes no git
 COMANDOS GIT:
 git add .\{nome do  arquivo}
 git diff
+git commit -m "nome da alteracao"
+
 */
