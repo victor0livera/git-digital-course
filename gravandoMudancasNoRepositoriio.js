@@ -12,8 +12,10 @@ remove the file    <==
 salvando modificacoes no git
 
 COMANDOS GIT:
-git add .\{nome do  arquivo}
-git diff
-git commit -m "nome da alteracao"
-
+git add .\{nome do  arquivo} (adiciona o arquivo para a area de staged)
+git diff (ver as alteracoes que foram feitas o antes e o depois)
+git commit -m "nome da alteracao" (commita manda para o diretorio)
+git log (ver o historico)
+git restore (restaura o estado anterior)
+git restore --staged {nome do arquivo} (tira da area de staged e volta para a area de modified)
 */

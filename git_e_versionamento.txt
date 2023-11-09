@@ -1,0 +1,13 @@
+git e versionamento
+
+Versionamento:
+	=> Registro de mudancas em arquivos, que possibilita recuperacao ou acesso a versoes anteriores.
+	=> Desenvolvimento de código em colaboracao com outros integrantes.
+	
+Git:
+	=> Git é um sistema de versionamento de código, que guarda os registros de versao como snapshots(fotos) do estado do projeto, além da referencia/caminho para essa foto.
+
+Git e suas operacoes locais:
+ 	=> A maioria das operacoes feitas pelo git sao locais e por isso boa parte 
+das operacoes sao praticamente instantaneas devido a facilidade de acessar arquivos
+dentro de seu próprio computador
