@@ -12,6 +12,7 @@ remove the file    <==
 salvando modificacoes no git
 
 COMANDOS GIT:
+
 git add .\{nome do  arquivo} (adiciona o arquivo para a area de staged)
 git diff (ver as alteracoes que foram feitas o antes e o depois)
 git commit -m "nome da alteracao" (commita manda para o diretorio)
@@ -24,4 +25,6 @@ git diff origin/master (olha oque voce esta trazendo do diretorio remoto.)
 git branch {nome da branch} (cria uma nova branch)
 git log --oneline --decorate (visualiza para onde o head esta apontado)
 git checkout {nome da branch} (aponta o head para outra branch)
+git branch (lista todas as branchs)
+git merge {nome do arquivo} (uni duas ramificacoes em uma só)
 */
