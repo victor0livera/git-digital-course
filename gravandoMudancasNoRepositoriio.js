@@ -20,4 +20,7 @@ git restore (restaura o estado anterior)
 git restore --staged {nome do arquivo} (tira da area de staged e volta para a area de modified)
 git remote (ver qual repositorio remoto esta conectado com o repositorio local)
 git diff origin/master (olha oque voce esta trazendo do diretorio remoto.)
+git branch {nome da branch} (cria uma nova branch)
+git log --oneline --decorate (visualiza para onde o head esta apontado)
+git checkout {nome da branch} (aponta o head para outra branch)
 */
