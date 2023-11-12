@@ -19,4 +19,5 @@ git log (ver o historico)
 git restore (restaura o estado anterior)
 git restore --staged {nome do arquivo} (tira da area de staged e volta para a area de modified)
 git remote (ver qual repositorio remoto esta conectado com o repositorio local)
+git diff origin/master (olha oque voce esta trazendo do diretorio remoto.)
 */
